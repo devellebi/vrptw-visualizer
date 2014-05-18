@@ -103,8 +103,7 @@
 					max: 100
 				}
 			}
-		});	
-	
+		});		
 	}
 	
 	function fillDropdown() {
